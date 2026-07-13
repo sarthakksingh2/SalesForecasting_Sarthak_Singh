@@ -21,11 +21,10 @@ This Streamlit application was developed as part of a Data Science Internship Pr
 - Statsmodels
 - Prophet
 
+Live Link : https://salesforecastingsarthaksingh-xr4b46tkfflzdpi8envj4x.streamlit.app/
+
 ## Run the Application
 
 ```bash
 streamlit run app.py
 
-
-
-Live Link : https://salesforecastingsarthaksingh-xr4b46tkfflzdpi8envj4x.streamlit.app/
